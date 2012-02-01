@@ -1,6 +1,6 @@
 # Mesh4LYFE
 
-![Mesh4LYFE](images/mesh4lyfe.png)
+![Mesh4LYFE](https://github.com/boxysean/Mesh4LYFE/raw/master/images/mesh4lyfe.png)
 
 ## About
 
